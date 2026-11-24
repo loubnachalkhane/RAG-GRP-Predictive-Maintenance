@@ -127,4 +127,3 @@ Loubna Chalkhane, ENSAM Casablanca and University of Cordoba.
 
 ## License
 
-To be added.
